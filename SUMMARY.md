@@ -2,23 +2,11 @@
 
 * [👋 Welcome!](README.md)
 
-## About us
+## tools
 
-* [🚀 Vision, Mission & Focus](about-us/vision-mission-and-focus/README.md)
-  * [Vision](about-us/vision-mission-and-focus/vision.md)
-  * [Mission](about-us/vision-mission-and-focus/mission.md)
-  * [Focus](about-us/vision-mission-and-focus/focus.md)
-* [💖 Values](about-us/values.md)
+* [intellij线上激活](tools/intellij-xian-shang-ji-huo.md)
 
-## Team
+## linux
 
-* [👋 Meet the Team!](team/meet-the-team.md)
-
-## Collaborating
-
-* [🤝 How we Work Together](collaborating/how-we-work-together.md)
-* [📅 Meetings](collaborating/meetings.md)
-
-## Policies
-
-* [🌴 Requesting Time Off](policies/requesting-time-off.md)
+* [Windows subsystem - debian](linux/windows-subsystem-debian.md)
+* [Linux Common Command](linux/linux-common-command.md)
