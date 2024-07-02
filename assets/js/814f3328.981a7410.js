@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_docs=self.webpackChunkmy_docs||[]).push([[7472],{5513:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Welcome","permalink":"/blog/welcome","unlisted":false},{"title":"Windows wls2","permalink":"/blog/1","unlisted":false},{"title":"Intellij \u5168\u5bb6\u6876\u7834\u89e3","permalink":"/blog/2","unlisted":false}]}')}}]);
