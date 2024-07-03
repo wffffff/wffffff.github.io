@@ -4,7 +4,7 @@ sidebar_position: 1
 
 # 常用的配置
 
-1. 配置ssh登陆多窗口的功能：
+1. Setting up ssh multiplexing to reuse SSH connection:
 
 ```shell
 mkdir ~/.ssh/sockets
