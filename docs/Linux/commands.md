@@ -23,5 +23,5 @@ Host *
   ControlPersist 6000
 ```
 
-2. trzsz下载大型日志： https://trzsz.github.io/
+2. trzsz download files： https://trzsz.github.io/
 
